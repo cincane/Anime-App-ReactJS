@@ -81,7 +81,7 @@ function Logo() {
   return (
     <div className="logo">
       <span role="img">🍥</span>
-      <h1>Wee</h1>
+      <h1>WeeBoo</h1>
       <span role="img">🍥</span>
     </div>
   );
