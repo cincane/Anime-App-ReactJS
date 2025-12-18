@@ -84,6 +84,7 @@ function Logo() {
       <span role="img">🍥</span>
       <h1>WeeBoo</h1>
       <h3>Haii</h3>
+      <h4>Halo</h4>
       <span role="img">🍥</span>
     </div>
   );
