@@ -41,6 +41,7 @@ const animesData = [
 ];
 
 export default function App() {
+  // eslint-disable-next-line no-unused-vars
   const [animes, setAnimes] = useState(animesData);
   const [selectedAnime, setSelectedAnime] = useState(animes[0]);
 
